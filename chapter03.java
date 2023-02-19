@@ -3,6 +3,7 @@ public class chapter03{
     System.out.println(10+3);
     System.out.println(10-3);
     System.out.println(10*3);
-    System.out.println(10.0/3.0);
+    System.out.println(10.0/3.0)
+    
   }
 }
